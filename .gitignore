@@ -1,0 +1,5 @@
+venv/*
+.idea*
+.ipynb_checkpoints/*
+A2_*
+cifar-10*
